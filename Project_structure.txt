@@ -1,0 +1,16 @@
+Sitora/
+│
+├── api/
+│   └── main.py
+├── bot/
+│   └── telegram_bot.py
+├── data/
+│   ├── cases.md
+│   └── users.json
+├── docs/
+│   ├── README.md
+│   └── ARCHITECTURE.md
+├── i18n/
+│   ├── ru.json
+│   └── tj.json
+└── plan.md
